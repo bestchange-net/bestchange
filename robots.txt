@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bestchange.bc.github.io/sitemap.xml
