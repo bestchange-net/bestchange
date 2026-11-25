@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestchange.mytwcard.pro/ru/sitemap.xml
